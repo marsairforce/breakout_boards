@@ -1,4 +1,4 @@
-19456893446906199
+19458496523810199
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44169,6 +44169,13 @@ VT8-PT(S)
 0
 8
 8
+Connector_Tube_Socket
+VT9-PT
+Valve ECC-83-2 flat pins
+Valve ECC-83-2 flat pins
+0
+10
+9
 Connector_USB
 USB3_A_Molex_48393-001
 USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)

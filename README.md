@@ -15,10 +15,18 @@ In this case I just opened the PCBNew application and ad-hoc added the footprint
 
 ## Supported Packages
 
-* [SOIC](https://en.wikipedia.org/wiki/Small_outline_integrated_circuit) 8, 14, 16
+* [SOIC](https://en.wikipedia.org/wiki/Small_outline_integrated_circuit)
+  * 8
+  * 14
+  * 16
 * [SOT-23](https://en.wikipedia.org/wiki/Small-outline_transistor)
-* [TO-252](https://en.wikipedia.org/wiki/TO-252)
-* [TO-263](https://en.wikipedia.org/wiki/TO-263)
+  * 3
+  * 5
+* DPAK / [TO-252](https://en.wikipedia.org/wiki/TO-252)
+* D2PAK / [TO-263](https://en.wikipedia.org/wiki/TO-263)
+* Discrete 0406 / 0603 / 0806 / 1204 packages in a DIP carrier footprint
+  * x4
+  * x7
 
 I will add more footprints as I need them.
 
@@ -34,10 +42,12 @@ For convenience, I shared the uploaded board projects:
 | SOIC-14 | https://oshpark.com/shared_projects/QcCbjX4y |
 | SOIC-16 | https://oshpark.com/shared_projects/uA6pM7Gf |
 | SOT-23  | https://oshpark.com/shared_projects/ge0wqWtr |
+| SOT25-5 | https://oshpark.com/shared_projects/e4J13SY4 |
 | SMD-6   | https://oshpark.com/shared_projects/h2nZ3u9U |
 | TO-252 (DPAK) | https://oshpark.com/shared_projects/cjtZqxyG |
 | TO-263 (D2PAK) | https://oshpark.com/shared_projects/tPH46DG8 |
-| 0406/0603/0806/1204 | https://oshpark.com/shared_projects/MdGxr2ob |
+| 0406/0603/0806/1204 x4 | https://oshpark.com/shared_projects/MdGxr2ob |
+| 0406/0603/0806/1204 x7 | https://oshpark.com/shared_projects/SLZF8xvz |
 
 > I am not affiliated by or sponsored by OSHPark.
 > I just am really happy with the kind of service they provide.
