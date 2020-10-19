@@ -42,7 +42,7 @@ For convenience, I shared the uploaded board projects:
 | SOIC-14 | https://oshpark.com/shared_projects/QcCbjX4y |
 | SOIC-16 | https://oshpark.com/shared_projects/uA6pM7Gf |
 | SOT-23  | https://oshpark.com/shared_projects/ge0wqWtr |
-| SOT25-5 | https://oshpark.com/shared_projects/e4J13SY4 |
+| SOT23-5 | https://oshpark.com/shared_projects/e4J13SY4 |
 | SMD-6   | https://oshpark.com/shared_projects/h2nZ3u9U |
 | TO-252 (DPAK) | https://oshpark.com/shared_projects/cjtZqxyG |
 | TO-263 (D2PAK) | https://oshpark.com/shared_projects/tPH46DG8 |

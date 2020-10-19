@@ -5,6 +5,9 @@
 Footprints for
 
 * 0406 / 0603 / 0806 / 1204 packages - a carrier for 7  of these on a DIP-14 footprint. Practical use, some circuits I built benefit from having more space to stuff these discrete things.
+* A 12AX7 breakout board
+* An EF86 breakout board.
+* Created 3D CAD model for VT9-PT tube socket.
 
 ## 2020-10-14
 
