@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EF86
+D pentode
+K pentode valve
+F http://www.r-type.org/pdfs/ef86.pdf
+$ENDCMP
+#
+#End Doc Library
