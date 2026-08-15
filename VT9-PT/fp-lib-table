@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name VT9-PT)(type KiCad)(uri ${KIPRJMOD}/VT9-PT.pretty)(options "")(descr ""))
-)
