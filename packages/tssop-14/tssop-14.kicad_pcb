@@ -78,9 +78,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "plots/")
 		)
 	)
 	(footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
@@ -597,17 +597,6 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "76328550-d6d8-4216-8e3b-7d5d6e84bd4c")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 0)
-			(layer "F.Fab")
-			(uuid "fcff48d0-0e2a-47f9-bf4c-f5b2394cb8e3")
-			(effects
-				(font
-					(size 0.25 0.25)
-					(thickness 0.04)
-				)
-			)
 		)
 		(pad "" smd roundrect
 			(at -0.345 0)
