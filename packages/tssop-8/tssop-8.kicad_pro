@@ -489,7 +489,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sot-363.kicad_pro",
+    "filename": "tssop-8.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -591,18 +591,6 @@
         },
         {
           "group_by": true,
-          "label": "Exclude from Simulation",
-          "name": "${EXCLUDE_FROM_SIM}",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from Position Files",
-          "name": "${EXCLUDE_FROM_POS_FILES}",
-          "show": true
-        },
-        {
-          "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
           "show": true
@@ -657,9 +645,9 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "sot-363.kicad_sch",
-        "name": "",
-        "uuid": "c53bf0f7-15b3-4082-a1d8-6553eabb551b"
+        "filename": "tssop-8.kicad_sch",
+        "name": "tssop-8",
+        "uuid": "8a05b7d3-dbfb-4029-96e3-658075e41f9a"
       }
     ],
     "used_designators": "C1,J1-3",
@@ -667,8 +655,8 @@
   },
   "sheets": [
     [
-      "c53bf0f7-15b3-4082-a1d8-6553eabb551b",
-      ""
+      "8a05b7d3-dbfb-4029-96e3-658075e41f9a",
+      "tssop-8"
     ]
   ],
   "text_variables": {},
